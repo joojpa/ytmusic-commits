@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 22/05/2026
+
+🥇 Prison Song — System of a Down (3x)
+🥈 Black Rover — VK Blanka (3x)
+🥉 Hail to the King — Avenged Sevenfold (3x)
 ## 📅 21/05/2026
 
 🥇 Thriller — Michael Jackson (2x)
