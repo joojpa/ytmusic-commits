@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 26/05/2026
+🥇 bico do corvo — LVCAS (12x)
+🥈 Break of Dawn — Michael Jackson (10x)
+🥉 mea culpa — LVCAS (6x)
+
 ## 📅 26/05/2026 (TESTE — hoje)
 🥇 The Emptiness Machine — Linkin Park (3x)
 🥈 When They Come for Me — Linkin Park
