@@ -130,13 +130,11 @@ A partir de agora, toda vez que você ligar o PC e a internet estiver disponíve
 # 🎵 Histórico de Músicas — YouTube Music
 
 ## 📅 19/05/2025
-
 🥇 Espiral de Ilusão — Djavan (4x)
 🥈 Dreams — Fleetwood Mac (3x)
 🥉 Anunciação — Alceu Valença (2x)
 
 ## 📅 18/05/2025
-
 🥇 Aquarela — Toquinho (5x)
 ...
 ```
