@@ -5,6 +5,11 @@
 🥈 Black Rover — VK Blanka (3x)
 🥉 Nothing Else Matters — Metallica (3x)
 
+## 📅 27/05/2026
+🥇 mea culpa — LVCAS (4x)
+🥈 Black Rover — VK Blanka (3x)
+🥉 Nothing Else Matters — Metallica (3x)
+
 ## 📅 26/05/2026
 🥇 bico do corvo — LVCAS (12x)
 🥈 Break of Dawn — Michael Jackson (10x)
