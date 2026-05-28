@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 28/05/2026
+🥇 Meu Jeitinho — LVCAS (11x)
+🥈 mea culpa — LVCAS (3x)
+🥉 Blind — Korn (2x)
+
 ## 📅 27/05/2026
 🥇 mea culpa — LVCAS (4x)
 🥈 Black Rover — VK Blanka (3x)
