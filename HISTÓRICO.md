@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 29/05/2026
+🥇 Meu Jeitinho — LVCAS (7x)
+🥈 Earth Song — Michael Jackson (3x)
+🥉 mea culpa — LVCAS (2x)
+
 ## 📅 28/05/2026
 🥇 Meu Jeitinho — LVCAS (11x)
 🥈 mea culpa — LVCAS (3x)
