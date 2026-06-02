@@ -5,6 +5,7 @@
 🥈 Meu Jeitinho — LVCAS (2x)
 🥉 Hero — Skillet
 
+<<<<<<< HEAD
 ## 📅 01/06/2026
 🥇 残響散歌 - Zankyosanka — Aimer (3x)
 🥈 Meu Jeitinho — LVCAS (2x)
@@ -20,6 +21,8 @@
 🥈 Meu Jeitinho — LVCAS (2x)
 🥉 Hero — Skillet
 
+=======
+>>>>>>> ba5a7934780b600f068018b4efa80a6ad957efe9
 ## 📅 31/05/2026
 🥇 Prison Song — System of a Down (2x)
 🥈 mea culpa — LVCAS
