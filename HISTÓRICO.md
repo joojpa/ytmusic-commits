@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 02/06/2026
+🥇 Meu Jeitinho — LVCAS (4x)
+🥈 Sem Controle — LVCAS (2x)
+🥉 Saving Us — Serj Tankian (2x)
+
 ## 📅 01/06/2026
 🥇 残響散歌 - Zankyosanka — Aimer (3x)
 🥈 Meu Jeitinho — LVCAS (2x)
