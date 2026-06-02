@@ -10,26 +10,6 @@
 🥈 mea culpa — LVCAS
 🥉 Meu Jeitinho — LVCAS
 
-## 📅 31/05/2026
-🥇 Prison Song — System of a Down (2x)
-🥈 mea culpa — LVCAS
-🥉 Meu Jeitinho — LVCAS
-
-## 📅 31/05/2026
-🥇 Prison Song — System of a Down (2x)
-🥈 mea culpa — LVCAS
-🥉 Meu Jeitinho — LVCAS
-
-## 📅 31/05/2026
-🥇 Prison Song — System of a Down (2x)
-🥈 mea culpa — LVCAS
-🥉 Meu Jeitinho — LVCAS
-
-## 📅 31/05/2026
-🥇 Prison Song — System of a Down (2x)
-🥈 mea culpa — LVCAS
-🥉 Meu Jeitinho — LVCAS
-
 ## 📅 29/05/2026
 🥇 Meu Jeitinho — LVCAS (7x)
 🥈 Earth Song — Michael Jackson (3x)
