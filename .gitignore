@@ -3,3 +3,5 @@ scripts/oauth.json
 *.log
 __pycache__/
 *.pyc
+.last_run
+.meta_commit.json
