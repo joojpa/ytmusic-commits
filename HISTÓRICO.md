@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 03/06/2026
+🥇 Saving Us — Serj Tankian (2x)
+🥈 オトノケ - Otonoke — Creepy Nuts
+🥉 けっかおーらい(Anime ver) - Kekka Orai(Anime version) — Kocchi no Kento
+
 ## 📅 02/06/2026
 🥇 Meu Jeitinho — LVCAS (4x)
 🥈 Sem Controle — LVCAS (2x)
