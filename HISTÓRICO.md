@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 05/06/2026
+🥇 Saving Us — Serj Tankian
+🥈 残響散歌 - Zankyosanka — Aimer
+🥉 Meu Jeitinho — LVCAS
+
 ## 📅 03/06/2026
 🥇 Saving Us — Serj Tankian (2x)
 🥈 オトノケ - Otonoke — Creepy Nuts
