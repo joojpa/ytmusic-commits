@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 08/06/2026
+🥇 Saving Grace (From the Prime Original Series Spider-Noir) — Kirby (2x)
+🥈 Got the Life — Korn
+🥉 Falling Away From Me — Korn
+
 ## 📅 05/06/2026
 🥇 Saving Us — Serj Tankian
 🥈 残響散歌 - Zankyosanka — Aimer
