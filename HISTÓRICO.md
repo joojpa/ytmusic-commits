@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 09/06/2026
+🥇 Y'all Want A Single — Korn (2x)
+🥈 Got the Life — Korn (2x)
+🥉 Did My Time — Korn
+
 ## 📅 08/06/2026
 🥇 Saving Grace (From the Prime Original Series Spider-Noir) — Kirby (2x)
 🥈 Got the Life — Korn
