@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 10/06/2026
+🥇 Right Now — Korn (3x)
+🥈 Somebody Someone — Korn (2x)
+🥉 Word Up! — Korn (2x)
+
 ## 📅 09/06/2026
 🥇 Y'all Want A Single — Korn (2x)
 🥈 Got the Life — Korn (2x)
