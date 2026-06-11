@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 11/06/2026
+🥇 Empty Walls — Serj Tankian (4x)
+🥈 Break Stuff — Limp Bizkit (2x)
+🥉 The Creature Walks — He Is Legend
+
 ## 📅 10/06/2026
 🥇 Right Now — Korn (3x)
 🥈 Somebody Someone — Korn (2x)
