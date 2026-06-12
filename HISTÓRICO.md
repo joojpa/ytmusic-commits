@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 12/06/2026
+🥇 Empty Walls — Serj Tankian (7x)
+🥈 Soldier Side — System of a Down
+🥉 Nothing Else Matters — Metallica
+
 ## 📅 11/06/2026
 🥇 Empty Walls — Serj Tankian (4x)
 🥈 Break Stuff — Limp Bizkit (2x)
