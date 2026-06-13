@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 13/06/2026
+🥇 Empty Walls — Serj Tankian (2x)
+🥈 I Hate Everything About You — Three Days Grace
+🥉 She's Like Heroin — System of a Down
+
 ## 📅 12/06/2026
 🥇 Empty Walls — Serj Tankian (7x)
 🥈 Soldier Side — System of a Down
