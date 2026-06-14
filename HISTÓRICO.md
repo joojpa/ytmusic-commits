@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 14/06/2026
+🥇 To Ashes and Blood (from the series Arcane League of Legends) — Woodkid (2x)
+🥈 Saving Grace (From the Prime Original Series Spider-Noir) — Kirby (2x)
+🥉 Empty Walls — Serj Tankian (2x)
+
 ## 📅 13/06/2026
 🥇 Empty Walls — Serj Tankian (2x)
 🥈 I Hate Everything About You — Three Days Grace
