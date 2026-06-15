@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 15/06/2026
+🥇 Empty Walls — Serj Tankian (4x)
+🥈 To Ashes and Blood (from the series Arcane League of Legends) — Woodkid (2x)
+🥉 Come All You Beasts — The Last Dinner Party
+
 ## 📅 14/06/2026
 🥇 To Ashes and Blood (from the series Arcane League of Legends) — Woodkid (2x)
 🥈 Saving Grace (From the Prime Original Series Spider-Noir) — Kirby (2x)
