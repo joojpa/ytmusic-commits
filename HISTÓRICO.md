@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 16/06/2026
+🥇 Guns for Hire (From the series Arcane League of Legends) — Woodkid (3x)
+🥈 Empty Walls — Serj Tankian (3x)
+🥉 Bloody Stream — Coda
+
 ## 📅 15/06/2026
 🥇 Empty Walls — Serj Tankian (4x)
 🥈 To Ashes and Blood (from the series Arcane League of Legends) — Woodkid (2x)
