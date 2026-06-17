@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 17/06/2026
+🥇 The Rains of Castamere — Ramin Djawadi
+🥈 Guns for Hire (From the series Arcane League of Legends) — Woodkid
+🥉 Down With the Sickness — Disturbed
+
 ## 📅 16/06/2026
 🥇 Guns for Hire (From the series Arcane League of Legends) — Woodkid (3x)
 🥈 Empty Walls — Serj Tankian (3x)
