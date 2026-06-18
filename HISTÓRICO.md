@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 18/06/2026
+🥇 Empty Walls — Serj Tankian (2x)
+🥈 I'm Still Standing — Elton John (2x)
+🥉 I Will Survive (single version) — Gloria Gaynor
+
 ## 📅 17/06/2026
 🥇 The Rains of Castamere — Ramin Djawadi
 🥈 Guns for Hire (From the series Arcane League of Legends) — Woodkid
