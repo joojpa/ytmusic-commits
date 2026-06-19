@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 19/06/2026
+🥇 Peephole — System of a Down (2x)
+🥈 Last Resort — Papa Roach (2x)
+🥉 Odisseia — LVCAS (2x)
+
 ## 📅 18/06/2026
 🥇 Empty Walls — Serj Tankian (2x)
 🥈 I'm Still Standing — Elton John (2x)
