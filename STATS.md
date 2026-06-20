@@ -1,30 +1,30 @@
 # 📊 Estatísticas Musicais
 
-> Atualizado em 20/06/2026 às 10:52
+> Atualizado em 21/06/2026 às 12:44
 
 ---
 
 ## 🗓️ Junho/2026
 
-- 🎵 Total de scrobbles: **357**
-- 📅 Dias ativos: **17**
-- 🔥 Streak atual: **12 dias**
+- 🎵 Total de scrobbles: **366**
+- 📅 Dias ativos: **18**
+- 🔥 Streak atual: **0 dias**
 - 🏆 Maior streak do mês: **12 dias**
 
 ---
 
 ## 🎤 Artistas mais ouvidos no mês
 
-🥇 **System of a Down** — 61 scrobbles
-🥈 **Korn** — 56 scrobbles
+🥇 **System of a Down** — 65 scrobbles
+🥈 **Korn** — 57 scrobbles
 🥉 **Serj Tankian** — 38 scrobbles
 4. **LVCAS** — 28 scrobbles
-5. **Linkin Park** — 19 scrobbles
+5. **Linkin Park** — 20 scrobbles
 6. **Aimer** — 12 scrobbles
-7. **Kirby** — 11 scrobbles
-8. **Woodkid** — 11 scrobbles
-9. **Papa Roach** — 10 scrobbles
-10. **Slipknot** — 10 scrobbles
+7. **Slipknot** — 11 scrobbles
+8. **Kirby** — 11 scrobbles
+9. **Woodkid** — 11 scrobbles
+10. **Papa Roach** — 10 scrobbles
 
 ---
 
@@ -48,4 +48,5 @@
 `17/06` █████████ 15
 `18/06` ████████████ 19
 `19/06` ████████████████████ 32
+`21/06` █████ 9
 ```
