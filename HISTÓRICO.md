@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 21/06/2026
+🥇 Peephole — System of a Down (3x)
+🥈 Killing in the Name — Rage Against the Machine
+🥉 One Step Closer — Linkin Park
+
 ## 📅 19/06/2026
 🥇 Peephole — System of a Down (2x)
 🥈 Last Resort — Papa Roach (2x)
