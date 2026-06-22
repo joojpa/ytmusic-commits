@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 22/06/2026
+🥇 Peephole — System of a Down (9x)
+🥈 Know — System of a Down (3x)
+🥉 Relaxing Nature Sounds — Axty
+
 ## 📅 21/06/2026
 🥇 Peephole — System of a Down (3x)
 🥈 Killing in the Name — Rage Against the Machine
