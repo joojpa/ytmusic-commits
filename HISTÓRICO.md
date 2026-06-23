@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 23/06/2026
+🥇 Peephole — System of a Down (4x)
+🥈 Sugar — System of a Down (2x)
+🥉 Know — System of a Down (2x)
+
 ## 📅 22/06/2026
 🥇 Peephole — System of a Down (9x)
 🥈 Know — System of a Down (3x)
