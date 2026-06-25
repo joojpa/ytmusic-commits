@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 25/06/2026
+🥇 Peephole — System of a Down (3x)
+🥈 Toxicity — System of a Down
+🥉 Eyez — P.O.D.
+
 ## 📅 23/06/2026
 🥇 Peephole — System of a Down (4x)
 🥈 Sugar — System of a Down (2x)
