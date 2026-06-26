@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 26/06/2026
+🥇 What's New Scooby-Doo? — Simple Plan
+🥈 Don't Stop Me Now (With Long-Lost Guitars) — Queen
+🥉 Bohemian Rhapsody — Queen
+
 ## 📅 25/06/2026
 🥇 Peephole — System of a Down (3x)
 🥈 Toxicity — System of a Down
