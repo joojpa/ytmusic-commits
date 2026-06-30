@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 30/06/2026
+🥇 Peephole — System of a Down (2x)
+🥈 Stealing Society — System of a Down
+🥉 Empty Walls — Serj Tankian
+
 ## 📅 26/06/2026
 🥇 What's New Scooby-Doo? — Simple Plan
 🥈 Don't Stop Me Now (With Long-Lost Guitars) — Queen
