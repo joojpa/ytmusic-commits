@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 01/07/2026
+🥇 Meu Jeitinho — LVCAS (3x)
+🥈 Joias da Família (part. MAIK sbkaos, Biffe e Hakuro) — YUNG LIXO (2x)
+🥉 Primavera (part. Biffe e Hakuro) — YUNG LIXO
+
 ## 📅 30/06/2026
 🥇 Peephole — System of a Down (2x)
 🥈 Stealing Society — System of a Down
