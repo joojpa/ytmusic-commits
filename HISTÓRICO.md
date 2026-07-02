@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 02/07/2026
+🥇 Joias da Família (part. MAIK sbkaos, Biffe e Hakuro) — YUNG LIXO (8x)
+🥈 残響散歌 - Zankyosanka — Aimer (3x)
+🥉 PHOENIX PRAYER — Eir Aoi
+
 ## 📅 01/07/2026
 🥇 Meu Jeitinho — LVCAS (3x)
 🥈 Joias da Família (part. MAIK sbkaos, Biffe e Hakuro) — YUNG LIXO (2x)
