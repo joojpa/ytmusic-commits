@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 08/07/2026
+🥇 Peephole — System of a Down (2x)
+🥈 Lost in Hollywood — System of a Down
+🥉 Nightmare — Avenged Sevenfold
+
 ## 📅 07/07/2026
 🥇 Joias da Família (part. MAIK sbkaos, Biffe e Hakuro) — YUNG LIXO (2x)
 🥈 Saving Grace (From the Prime Original Series Spider-Noir) — Kirby (2x)
