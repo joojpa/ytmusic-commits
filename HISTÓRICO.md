@@ -1,5 +1,8 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 09/07/2026
+🥇 Joias da Família (part. MAIK sbkaos, Biffe e Hakuro) — YUNG LIXO
+
 ## 📅 08/07/2026
 🥇 Peephole — System of a Down (2x)
 🥈 Lost in Hollywood — System of a Down
