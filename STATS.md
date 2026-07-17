@@ -1,6 +1,6 @@
 # 📊 Estatísticas Musicais
 
-> Atualizado em 17/07/2026 às 16:07
+> Atualizado em 18/07/2026 às 15:30
 
 ---
 
