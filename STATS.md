@@ -1,13 +1,13 @@
 # 📊 Estatísticas Musicais
 
-> Atualizado em 19/07/2026 às 11:27
+> Atualizado em 20/07/2026 às 19:39
 
 ---
 
 ## 🗓️ Julho/2026
 
-- 🎵 Total de scrobbles: **98**
-- 📅 Dias ativos: **5**
+- 🎵 Total de scrobbles: **128**
+- 📅 Dias ativos: **6**
 - 🔥 Streak atual: **0 dias**
 - 🏆 Maior streak do mês: **3 dias**
 
@@ -15,16 +15,16 @@
 
 ## 🎤 Artistas mais ouvidos no mês
 
-🥇 **YUNG LIXO** — 16 scrobbles
-🥈 **LVCAS** — 13 scrobbles
-🥉 **System of a Down** — 10 scrobbles
-4. **Korn** — 6 scrobbles
-5. **Kirby** — 6 scrobbles
-6. **Aimer** — 3 scrobbles
-7. **7 Minutoz** — 3 scrobbles
-8. **Three Days Grace** — 2 scrobbles
-9. **TakaB** — 2 scrobbles
-10. **Linkin Park** — 2 scrobbles
+🥇 **System of a Down** — 17 scrobbles
+🥈 **YUNG LIXO** — 17 scrobbles
+🥉 **LVCAS** — 14 scrobbles
+4. **Korn** — 7 scrobbles
+5. **Britney Spears** — 7 scrobbles
+6. **Kirby** — 7 scrobbles
+7. **Elton John** — 3 scrobbles
+8. **Aimer** — 3 scrobbles
+9. **7 Minutoz** — 3 scrobbles
+10. **Three Days Grace** — 2 scrobbles
 
 ---
 
@@ -36,4 +36,5 @@
 `07/07` ███████████████████ 22
 `08/07` ██████████ 12
 `09/07`  1
+`20/07` ██████████████████████████ 30
 ```
