@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 20/07/2026
+🥇 ...Baby One More Time — Britney Spears (6x)
+🥈 Stealing Society — System of a Down (2x)
+🥉 Peak — Raised Fist
+
 ## 📅 09/07/2026
 🥇 Joias da Família (part. MAIK sbkaos, Biffe e Hakuro) — YUNG LIXO
 

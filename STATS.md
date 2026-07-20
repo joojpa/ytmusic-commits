@@ -1,6 +1,6 @@
 # 📊 Estatísticas Musicais
 
-> Atualizado em 20/07/2026 às 19:39
+> Atualizado em 21/07/2026 às 06:50
 
 ---
 
@@ -8,7 +8,7 @@
 
 - 🎵 Total de scrobbles: **128**
 - 📅 Dias ativos: **6**
-- 🔥 Streak atual: **0 dias**
+- 🔥 Streak atual: **1 dia**
 - 🏆 Maior streak do mês: **3 dias**
 
 ---
