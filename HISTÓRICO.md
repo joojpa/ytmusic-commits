@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 21/07/2026
+🥇 ...Baby One More Time — Britney Spears (7x)
+🥈 S&M — Rihanna (2x)
+🥉 TEEN TITANS THEME — PUFFY
+
 ## 📅 20/07/2026
 🥇 ...Baby One More Time — Britney Spears (6x)
 🥈 Stealing Society — System of a Down (2x)

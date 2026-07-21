@@ -1,40 +1,41 @@
 # 📊 Estatísticas Musicais
 
-> Atualizado em 21/07/2026 às 06:50
+> Atualizado em 22/07/2026 às 06:05
 
 ---
 
 ## 🗓️ Julho/2026
 
-- 🎵 Total de scrobbles: **128**
-- 📅 Dias ativos: **6**
-- 🔥 Streak atual: **1 dia**
+- 🎵 Total de scrobbles: **163**
+- 📅 Dias ativos: **7**
+- 🔥 Streak atual: **2 dias**
 - 🏆 Maior streak do mês: **3 dias**
 
 ---
 
 ## 🎤 Artistas mais ouvidos no mês
 
-🥇 **System of a Down** — 17 scrobbles
+🥇 **System of a Down** — 18 scrobbles
 🥈 **YUNG LIXO** — 17 scrobbles
-🥉 **LVCAS** — 14 scrobbles
-4. **Korn** — 7 scrobbles
-5. **Britney Spears** — 7 scrobbles
-6. **Kirby** — 7 scrobbles
-7. **Elton John** — 3 scrobbles
-8. **Aimer** — 3 scrobbles
-9. **7 Minutoz** — 3 scrobbles
-10. **Three Days Grace** — 2 scrobbles
+🥉 **Britney Spears** — 15 scrobbles
+4. **HAZBIN HOTEL** — 14 scrobbles
+5. **LVCAS** — 14 scrobbles
+6. **Kirby** — 8 scrobbles
+7. **Korn** — 7 scrobbles
+8. **Elton John** — 5 scrobbles
+9. **Rihanna** — 3 scrobbles
+10. **Aimer** — 3 scrobbles
 
 ---
 
 ## 📈 Atividade por dia
 
 ```
-`01/07` ██████████████████████████████ 34
-`02/07` █████████████████████████ 29
-`07/07` ███████████████████ 22
+`01/07` █████████████████████████████ 34
+`02/07` ████████████████████████ 29
+`07/07` ██████████████████ 22
 `08/07` ██████████ 12
 `09/07`  1
-`20/07` ██████████████████████████ 30
+`20/07` █████████████████████████ 30
+`21/07` ██████████████████████████████ 35
 ```
