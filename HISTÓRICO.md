@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 22/07/2026
+🥇 ...Baby One More Time — Britney Spears (7x)
+🥈 Know — System of a Down (3x)
+🥉 mea culpa — LVCAS (2x)
+
 ## 📅 21/07/2026
 🥇 ...Baby One More Time — Britney Spears (7x)
 🥈 S&M — Rihanna (2x)
