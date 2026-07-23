@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 23/07/2026
+🥇 ...Baby One More Time — Britney Spears (7x)
+🥈 Your Song — Elton John
+🥉 Sacrifice — Elton John
+
 ## 📅 22/07/2026
 🥇 ...Baby One More Time — Britney Spears (7x)
 🥈 Know — System of a Down (3x)
