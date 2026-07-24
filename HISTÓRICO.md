@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 24/07/2026
+🥇 Toxic — Britney Spears (2x)
+🥈 ...Baby One More Time — Britney Spears (2x)
+🥉 This Love — Maroon 5
+
 ## 📅 23/07/2026
 🥇 ...Baby One More Time — Britney Spears (7x)
 🥈 Your Song — Elton John
