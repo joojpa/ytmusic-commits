@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 27/07/2026
+🥇 Cigaro — System of a Down (2x)
+🥈 Marmalade — System of a Down (2x)
+🥉 ...Baby One More Time — Britney Spears (2x)
+
 ## 📅 24/07/2026
 🥇 Toxic — Britney Spears (2x)
 🥈 ...Baby One More Time — Britney Spears (2x)
