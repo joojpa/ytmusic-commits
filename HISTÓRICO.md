@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 28/07/2026
+🥇 Marmalade — System of a Down (3x)
+🥈 Stealing Society — System of a Down (2x)
+🥉 My Ordinary Life — The Living Tombstone
+
 ## 📅 27/07/2026
 🥇 Cigaro — System of a Down (2x)
 🥈 Marmalade — System of a Down (2x)
