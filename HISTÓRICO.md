@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 29/07/2026
+🥇 Pump It — The Black Eyed Peas (2x)
+🥈 HONEY (ARE U COMING?) — Måneskin
+🥉 Solidão — oShaman
+
 ## 📅 28/07/2026
 🥇 Marmalade — System of a Down (3x)
 🥈 Stealing Society — System of a Down (2x)
