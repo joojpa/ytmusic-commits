@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 30/07/2026
+🥇 Aranha (Chrollo) — Kaito Rapper (5x)
+🥈 O Sol e a Lua — Enygma Rapper (3x)
+🥉 Toxic — Britney Spears (2x)
+
 ## 📅 29/07/2026
 🥇 Pump It — The Black Eyed Peas (2x)
 🥈 HONEY (ARE U COMING?) — Måneskin
