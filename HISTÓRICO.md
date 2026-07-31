@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 31/07/2026
+🥇 Aranha (Chrollo) — Kaito Rapper (5x)
+🥈 Mágico Assassino (Hisoka) — Enygma Rapper (4x)
+🥉 O Rei (Sukuna) — Daarui (2x)
+
 ## 📅 30/07/2026
 🥇 Aranha (Chrollo) — Kaito Rapper (5x)
 🥈 O Sol e a Lua — Enygma Rapper (3x)
