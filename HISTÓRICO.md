@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 03/08/2026
+🥇 ...Baby One More Time — Britney Spears
+🥈 Bad With Us — HAZBIN HOTEL
+🥉 Don't You Forget (Reprise) — HAZBIN HOTEL
+
 ## 📅 31/07/2026
 🥇 Aranha (Chrollo) — Kaito Rapper (5x)
 🥈 Mágico Assassino (Hisoka) — Enygma Rapper (4x)

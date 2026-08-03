@@ -1,25 +1,29 @@
 # 📊 Estatísticas Musicais
 
-> Atualizado em 03/08/2026 às 11:30
+> Atualizado em 04/08/2026 às 11:15
 
 ---
 
 ## 🗓️ Agosto/2026
 
-- 🎵 Total de scrobbles: **0**
-- 📅 Dias ativos: **0**
-- 🔥 Streak atual: **0 dias**
-- 🏆 Maior streak do mês: **0 dias**
+- 🎵 Total de scrobbles: **9**
+- 📅 Dias ativos: **1**
+- 🔥 Streak atual: **1 dia**
+- 🏆 Maior streak do mês: **1 dia**
 
 ---
 
 ## 🎤 Artistas mais ouvidos no mês
 
+🥇 **HAZBIN HOTEL** — 4 scrobbles
+🥈 **System of a Down** — 3 scrobbles
+🥉 **Britney Spears** — 1 scrobble
+4. **Korn** — 1 scrobble
 
 ---
 
 ## 📈 Atividade por dia
 
 ```
-_sem dados_
+`03/08` ██████████████████████████████ 9
 ```
