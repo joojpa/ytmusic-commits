@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 04/08/2026
+🥇 Oh Lord — Foxy Shazam
+🥈 Let's Get It Started (Spike Mix) — The Black Eyed Peas
+🥉 Warriors — Imagine Dragons
+
 ## 📅 03/08/2026
 🥇 ...Baby One More Time — Britney Spears
 🥈 Bad With Us — HAZBIN HOTEL
