@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 06/08/2026
+🥇 Stealing Society — System of a Down (2x)
+🥈 ...Baby One More Time — Britney Spears (2x)
+🥉 Kill Rock 'n Roll — System of a Down
+
 ## 📅 04/08/2026
 🥇 Oh Lord — Foxy Shazam
 🥈 Let's Get It Started (Spike Mix) — The Black Eyed Peas
