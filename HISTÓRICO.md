@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 08/08/2026
+🥇 Lost in Hollywood — System of a Down (2x)
+🥈 ...Baby One More Time — Britney Spears (2x)
+🥉 Got the Life — Korn (2x)
+
 ## 📅 06/08/2026
 🥇 Stealing Society — System of a Down (2x)
 🥈 ...Baby One More Time — Britney Spears (2x)
