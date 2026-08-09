@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 09/08/2026
+🥇 Master of Puppets — Metallica
+🥈 Somebody Someone — Korn
+🥉 Infinity — Vampires on Tomato Juice
+
 ## 📅 08/08/2026
 🥇 Lost in Hollywood — System of a Down (2x)
 🥈 ...Baby One More Time — Britney Spears (2x)
