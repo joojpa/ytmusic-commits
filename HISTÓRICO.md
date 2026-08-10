@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 10/08/2026
+🥇 Deer Dance — System of a Down
+🥈 Vostok — Manapart
+🥉 Falling Away From Me — Korn
+
 ## 📅 09/08/2026
 🥇 Master of Puppets — Metallica
 🥈 Somebody Someone — Korn
