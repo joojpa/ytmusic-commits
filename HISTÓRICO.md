@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 14/08/2026
+🥇 Empty Walls — Serj Tankian
+🥈 Did My Time — Korn
+🥉 Sad Statue — System of a Down
+
 ## 📅 10/08/2026
 🥇 Deer Dance — System of a Down
 🥈 Vostok — Manapart
