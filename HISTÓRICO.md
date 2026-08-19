@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 19/08/2026
+🥇 Lua de Neon — TakaB (3x)
+🥈 ...Baby One More Time — Britney Spears (2x)
+🥉 Aranha (Chrollo) — Kaito Rapper (2x)
+
 ## 📅 14/08/2026
 🥇 Empty Walls — Serj Tankian
 🥈 Did My Time — Korn
