@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 23/08/2026
+🥇 Genocidal Humanoidz — System of a Down
+🥈 Toxic — Britney Spears
+🥉 Tomie, Desejos Insanos — M4rkim
+
 ## 📅 19/08/2026
 🥇 Lua de Neon — TakaB (3x)
 🥈 ...Baby One More Time — Britney Spears (2x)
