@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 24/08/2026
+🥇 Stealing Society — System of a Down (2x)
+🥈 ...Baby One More Time — Britney Spears (2x)
+🥉 Yuta Okkotsu, Rainha Das Maldições — M4rkim (2x)
+
 ## 📅 23/08/2026
 🥇 Genocidal Humanoidz — System of a Down
 🥈 Toxic — Britney Spears

@@ -1,30 +1,30 @@
 # 📊 Estatísticas Musicais
 
-> Atualizado em 24/08/2026 às 11:46
+> Atualizado em 25/08/2026 às 08:54
 
 ---
 
 ## 🗓️ Agosto/2026
 
-- 🎵 Total de scrobbles: **285**
-- 📅 Dias ativos: **16**
-- 🔥 Streak atual: **7 dias**
-- 🏆 Maior streak do mês: **7 dias**
+- 🎵 Total de scrobbles: **301**
+- 📅 Dias ativos: **17**
+- 🔥 Streak atual: **8 dias**
+- 🏆 Maior streak do mês: **8 dias**
 
 ---
 
 ## 🎤 Artistas mais ouvidos no mês
 
-🥇 **System of a Down** — 46 scrobbles
-🥈 **Britney Spears** — 21 scrobbles
-🥉 **Enygma** — 16 scrobbles
-4. **M4rkim** — 12 scrobbles
+🥇 **System of a Down** — 48 scrobbles
+🥈 **Britney Spears** — 23 scrobbles
+🥉 **Enygma** — 19 scrobbles
+4. **M4rkim** — 14 scrobbles
 5. **TakaB** — 12 scrobbles
 6. **Slipknot** — 11 scrobbles
 7. **Kaito Rapper** — 10 scrobbles
 8. **Korn** — 10 scrobbles
-9. **Novatroop** — 8 scrobbles
-10. **Backstreet Boys** — 8 scrobbles
+9. **Backstreet Boys** — 9 scrobbles
+10. **Novatroop** — 8 scrobbles
 
 ---
 
@@ -47,4 +47,5 @@
 `21/08` █████████████████████████████ 40
 `22/08` █████████ 13
 `23/08` ████████ 11
+`24/08` ███████████ 16
 ```
