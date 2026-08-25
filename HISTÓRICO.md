@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 25/08/2026
+🥇 Show Me How To Live — Audioslave
+🥈 Like a Stone — Audioslave
+🥉 Toxicity — System of a Down
+
 ## 📅 24/08/2026
 🥇 Stealing Society — System of a Down (2x)
 🥈 ...Baby One More Time — Britney Spears (2x)
