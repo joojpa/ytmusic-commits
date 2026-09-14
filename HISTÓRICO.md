@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 14/09/2026
+🥇 Minha Determinação (Sans e Chara) — Anny (2x)
+🥈 One Step Closer — Linkin Park (2x)
+🥉 Maria — M4rkim
+
 ## 📅 25/08/2026
 🥇 Show Me How To Live — Audioslave
 🥈 Like a Stone — Audioslave
