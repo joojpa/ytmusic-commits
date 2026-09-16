@@ -1,30 +1,30 @@
 # 📊 Estatísticas Musicais
 
-> Atualizado em 15/09/2026 às 11:05
+> Atualizado em 17/09/2026 às 11:43
 
 ---
 
 ## 🗓️ Setembro/2026
 
-- 🎵 Total de scrobbles: **139**
-- 📅 Dias ativos: **11**
-- 🔥 Streak atual: **1 dia**
+- 🎵 Total de scrobbles: **172**
+- 📅 Dias ativos: **13**
+- 🔥 Streak atual: **3 dias**
 - 🏆 Maior streak do mês: **5 dias**
 
 ---
 
 ## 🎤 Artistas mais ouvidos no mês
 
-🥇 **System of a Down** — 13 scrobbles
-🥈 **M4rkim** — 10 scrobbles
-🥉 **YUNG LIXO** — 7 scrobbles
-4. **Anny** — 7 scrobbles
-5. **Linkin Park** — 7 scrobbles
-6. **Britney Spears** — 5 scrobbles
-7. **Shiny_sz** — 4 scrobbles
-8. **Slipknot** — 4 scrobbles
-9. **Audioslave** — 4 scrobbles
-10. **Serj Tankian** — 4 scrobbles
+🥇 **System of a Down** — 16 scrobbles
+🥈 **Linkin Park** — 10 scrobbles
+🥉 **M4rkim** — 10 scrobbles
+4. **Britney Spears** — 8 scrobbles
+5. **YUNG LIXO** — 7 scrobbles
+6. **Anny** — 7 scrobbles
+7. **Audioslave** — 6 scrobbles
+8. **Slipknot** — 5 scrobbles
+9. **Chrono Rapper** — 5 scrobbles
+10. **Shiny_sz** — 4 scrobbles
 
 ---
 
@@ -42,4 +42,6 @@
 `10/09` ███████████████ 14
 `11/09` █ 1
 `14/09` ██████████████████████████████ 27
+`15/09` █████████████ 12
+`16/09` ███████████████████████ 21
 ```

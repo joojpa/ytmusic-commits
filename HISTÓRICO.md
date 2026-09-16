@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 16/09/2026
+🥇 Stealing Society — System of a Down
+🥈 Peephole — System of a Down
+🥉 Two Faced — Linkin Park
+
 ## 📅 14/09/2026
 🥇 Minha Determinação (Sans e Chara) — Anny (2x)
 🥈 One Step Closer — Linkin Park (2x)
