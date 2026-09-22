@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 22/09/2026
+🥇 Easy — Faith No More (3x)
+🥈 Terceiro Lua (Akaza) — Daarui
+🥉 Contrato Feito (Alastor) — Ivou Music
+
 ## 📅 16/09/2026
 🥇 Stealing Society — System of a Down
 🥈 Peephole — System of a Down
