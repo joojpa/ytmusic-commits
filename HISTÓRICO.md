@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 23/09/2026
+🥇 Break of Dawn — Michael Jackson (2x)
+🥈 mea culpa — LVCAS
+🥉 Bring Me to Life — Evanescence
+
 ## 📅 22/09/2026
 🥇 Easy — Faith No More (3x)
 🥈 Terceiro Lua (Akaza) — Daarui
