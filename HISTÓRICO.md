@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 24/09/2026
+🥇 Empty Walls — Serj Tankian (3x)
+🥈 Peephole — System of a Down (2x)
+🥉 Last Resort — Papa Roach
+
 ## 📅 23/09/2026
 🥇 Break of Dawn — Michael Jackson (2x)
 🥈 mea culpa — LVCAS
