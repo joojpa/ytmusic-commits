@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 07/10/2026
+🥇 Sky is Over — Serj Tankian (5x)
+🥈 Prison Song — System of a Down (3x)
+🥉 One — Metallica (2x)
+
 ## 📅 24/09/2026
 🥇 Empty Walls — Serj Tankian (3x)
 🥈 Peephole — System of a Down (2x)
