@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 08/10/2026
+🥇 The Rains of Castamere — Ramin Djawadi (8x)
+🥈 Sky is Over — Serj Tankian (4x)
+🥉 Closure — Zero (3x)
+
 ## 📅 07/10/2026
 🥇 Sky is Over — Serj Tankian (5x)
 🥈 Prison Song — System of a Down (3x)
