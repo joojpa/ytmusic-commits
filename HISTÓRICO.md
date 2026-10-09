@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 09/10/2026
+🥇 Holy Mountains — System of a Down (3x)
+🥈 They Don't Care About Us — Michael Jackson
+🥉 Hypnotize — System of a Down
+
 ## 📅 08/10/2026
 🥇 The Rains of Castamere — Ramin Djawadi (8x)
 🥈 Sky is Over — Serj Tankian (4x)
