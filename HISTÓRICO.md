@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 11/10/2026
+🥇 They Don't Care About Us — Michael Jackson (3x)
+🥈 ...Baby One More Time — Britney Spears (2x)
+🥉 Holy Mountains — System of a Down (2x)
+
 ## 📅 09/10/2026
 🥇 Holy Mountains — System of a Down (3x)
 🥈 They Don't Care About Us — Michael Jackson
