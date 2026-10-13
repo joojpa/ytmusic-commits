@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 13/10/2026
+🥇 The Rains of Castamere — Ramin Djawadi (3x)
+🥈 Joseph — Falling in Reverse (2x)
+🥉 They Don't Care About Us — Michael Jackson (2x)
+
 ## 📅 11/10/2026
 🥇 They Don't Care About Us — Michael Jackson (3x)
 🥈 ...Baby One More Time — Britney Spears (2x)
