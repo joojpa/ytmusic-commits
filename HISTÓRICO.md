@@ -1,5 +1,10 @@
 # 🎵 Histórico de Músicas — YouTube Music
 
+## 📅 14/10/2026
+🥇 They Don't Care About Us — Michael Jackson
+🥈 Empty Walls — Serj Tankian
+🥉 Vermilion (Alternate Mix) [U.S. Edit Full Length] (Alternate Mix; U.S. Edit Full Length) — Slipknot
+
 ## 📅 13/10/2026
 🥇 The Rains of Castamere — Ramin Djawadi (3x)
 🥈 Joseph — Falling in Reverse (2x)
